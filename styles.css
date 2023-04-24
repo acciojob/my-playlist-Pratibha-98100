@@ -3,6 +3,10 @@ body{
 	background-color : #cccccc
 }
 
+ul{
+	shape:none;
+}
+
 h1,h2{
 	text-align:center;
 }
